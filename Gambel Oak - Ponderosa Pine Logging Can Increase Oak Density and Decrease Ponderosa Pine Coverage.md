@@ -1,0 +1,1 @@
+Logging of ponderosa pine can decrease competition for gambel oak therefore increasing density. Increased oak density can decrease ponderosa pine recruitment. 
