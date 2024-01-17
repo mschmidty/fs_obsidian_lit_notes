@@ -1,0 +1,1 @@
+The implication that mule deer surf the residual forage wave down is important for land managers because it shows that disruptions to migration can inhibit winter fitness for mule deer and therefore negatively impact mule deer populations. 

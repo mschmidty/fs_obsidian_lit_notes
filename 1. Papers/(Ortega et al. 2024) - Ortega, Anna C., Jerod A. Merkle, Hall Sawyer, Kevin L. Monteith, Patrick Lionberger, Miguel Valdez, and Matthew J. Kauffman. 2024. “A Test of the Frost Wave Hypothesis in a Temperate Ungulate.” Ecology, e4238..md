@@ -6,8 +6,8 @@ Ortega, Anna C., Jerod A. Merkle, Hall Sawyer, Kevin L. Monteith, Patrick Lionbe
 
 ## Notes
 * [[Available Forage Estimate - How to determine forage biomass using Landsat and Modis remote sensing sources.]]
-* [[Mule Deer - Trigger for Migration]]
-* 
+* [[Mule Deer - Residual Forage is a Trigger for Migration]]
+* [[Mule Deer - Stopped during migration to utilize residual forage.]]
 
 ## Related Papers
 * 
