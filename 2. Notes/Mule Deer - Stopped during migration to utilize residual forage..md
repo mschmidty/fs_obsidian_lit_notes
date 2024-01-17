@@ -1,0 +1,1 @@
+Mule deer utilize residual forage during migration and residual forage is an important indicator of how mule deer move through migration.  Residual forage is a predictor of when mule deer will migrate. 

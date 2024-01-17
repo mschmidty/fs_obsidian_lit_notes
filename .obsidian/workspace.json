@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "641ada10478ef82d",
+        "id": "2cc40dc345cef55b",
         "type": "tabs",
         "children": [
           {
-            "id": "fa8561d21d0d9679",
+            "id": "c133a2754038ef44",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Papers/(Ortega et al. 2024) - Ortega, Anna C., Jerod A. Merkle, Hall Sawyer, Kevin L. Monteith, Patrick Lionberger, Miguel Valdez, and Matthew J. Kauffman. 2024. “A Test of the Frost Wave Hypothesis in a Temperate Ungulate.” Ecology, e4238..md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Papers/(Ortega et al. 2024) - Ortega, Anna C., Jerod A. Merkle, Hall Sawyer, Kevin L. Monteith, Patrick Lionberger, Miguel Valdez, and Matthew J. Kauffman. 2024. “A Test of the Frost Wave Hypothesis in a Temperate Ungulate.” Ecology, e4238..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Papers/(Ortega et al. 2024) - Ortega, Anna C., Jerod A. Merkle, Hall Sawyer, Kevin L. Monteith, Patrick Lionberger, Miguel Valdez, and Matthew J. Kauffman. 2024. “A Test of the Frost Wave Hypothesis in a Temperate Ungulate.” Ecology, e4238..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meetings/ERO - EPM Meeting about MBTA and others.md"
+                "file": "1. Papers/(Ortega et al. 2024) - Ortega, Anna C., Jerod A. Merkle, Hall Sawyer, Kevin L. Monteith, Patrick Lionberger, Miguel Valdez, and Matthew J. Kauffman. 2024. “A Test of the Frost Wave Hypothesis in a Temperate Ungulate.” Ecology, e4238..md"
               }
             }
           }
@@ -141,18 +149,22 @@
     }
   },
   "active": "450e97b0a37afec1",
+  "active": "c133a2754038ef44",
   "lastOpenFiles": [
+    "2. Notes/Mule Deer - Residual Forage Implications for Land Management.md",
+    "2. Notes/Mule Deer - Residual Forage is a Trigger for Migration.md",
+    "1. Papers/(Ortega et al. 2024) - Ortega, Anna C., Jerod A. Merkle, Hall Sawyer, Kevin L. Monteith, Patrick Lionberger, Miguel Valdez, and Matthew J. Kauffman. 2024. “A Test of the Frost Wave Hypothesis in a Temperate Ungulate.” Ecology, e4238..md",
+    "2. Notes/Mule Deer - Stopped during migration to utilize residual forage..md",
+    "2. Notes/Available Forage Estimate - How to determine forage biomass using Landsat and Modis remote sensing sources..md",
     "1. Papers/(Harrington, 1985) - The Effects of Spring, Summer, and Fall Burning on Gambel Oak in a Southwestern Ponderosa Pine Stand..md",
-    "Meetings/ERO - EPM Meeting about MBTA and others.md",
-    "Meetings",
+    "1. Papers/(Kaufmann et al., n.d.) - Gambel oak ecology and management in the southern Rockies - The status of our knowledge..md",
+    "Templates/Lit.template.md",
     "2. Notes/Gambel Oak - Ponderosa Pine Logging Can Increase Oak Density and Decrease Ponderosa Pine Coverage.md",
     "2. Notes/Gambel Oak - One Treatment Increases Density Over 4 Years.md",
-    "1. Papers/(Kaufmann et al., n.d.) - Gambel oak ecology and management in the southern Rockies - The status of our knowledge..md",
     "2. Notes/Gambel Oak - Treatment Can Increase Dominance.md",
     "2. Notes",
     "1. Papers",
     "Untitled.md",
-    "Templates/Lit.template.md",
     "Templates",
     "Welcome.md"
   ]
