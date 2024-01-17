@@ -11,12 +11,8 @@
             "id": "fa8561d21d0d9679",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meetings/ERO - EPM Meeting about MBTA and others.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meetings/ERO - EPM Meeting about MBTA and others.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meetings/ERO - EPM Meeting about MBTA and others.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +140,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa8561d21d0d9679",
+  "active": "450e97b0a37afec1",
   "lastOpenFiles": [
     "1. Papers/(Harrington, 1985) - The Effects of Spring, Summer, and Fall Burning on Gambel Oak in a Southwestern Ponderosa Pine Stand..md",
     "Meetings/ERO - EPM Meeting about MBTA and others.md",
